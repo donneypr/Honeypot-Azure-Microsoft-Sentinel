@@ -36,3 +36,13 @@ In the accompanying demo, the following steps are covered:
 
 ## Languages Used
 - **PowerShell**: Used to extract and enhance RDP failed logon events from the Windows Event Viewer.
+![hacking](https://github.com/user-attachments/assets/5cc8a65f-cb83-4de5-8989-8a15313fe94e)
+
+## Utilities Used
+- **ipgeolocation.io:** IP Address to Geolocation API for obtaining geographic information about attackers.
+
+## Image Analysis Dataflow
+- Explore the world map of incoming attacks after 24 hours, revealing custom logs enriched with geodata for a comprehensive analysis.
+![countries_attacks2](https://github.com/user-attachments/assets/abccbf9f-7c96-4652-8db0-a3e31f6b02a0)
+
+
